@@ -1,11 +1,14 @@
 # rc-switch
 [![arduino-library-badge](https://www.ardu-badge.com/badge/rc-switch.svg?)](https://www.ardu-badge.com/rc-switch)
-[![Build Status](https://travis-ci.org/sui77/rc-switch.svg?branch=master)](https://travis-ci.org/sui77/rc-switch)
+[![Build Status](https://travis-ci.org/gilex-dev/rc-switch.svg?branch=SKL-W1B)](https://travis-ci.org/gilex-dev/rc-switch)
 
 Use your Arduino or [Raspberry Pi](https://github.com/r10r/rcswitch-pi) to operate remote radio controlled devices
 
+## Changes
+- Add support for SKL-W1B temperature sensor as described in this [Arduino forum thread](https://forum.arduino.cc/t/solved-433mhz-decoding-globaltronics-skl-w1b-temperature-sensor/663991)
+
 ## Download
-https://github.com/sui77/rc-switch/releases/latest
+https://github.com/gilex-dev/rc-switch/releases/latest
 
 rc-switch is also listed in the arduino library manager.
 
